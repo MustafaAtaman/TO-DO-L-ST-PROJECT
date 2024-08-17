@@ -28,11 +28,14 @@ Bu projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
    Katkıda Bulunma
 Bu proje açık kaynaklıdır ve katkılara açıktır. Katkıda bulunmak isterseniz, lütfen bir pull request gönderin.
 
-Lisans
+## Lisans
+
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
-İletişim
+## İletişim
+
 Projeyle ilgili herhangi bir sorunuz varsa, bana [mustafaataman85@gmail.com] üzerinden ulaşabilirsiniz.
+
 ## Genel Bilgi
 
 Bu README dosyası, projenin ne olduğunu, nasıl çalıştığını, nasıl kurulduğunu ve nasıl kullanılacağını açıkça belirtir. GitHub'daki projenizin gereksinimlerine göre eklemeler yapabilirsiniz. Başka bir şey için yardıma ihtiyacın olursa, lütfen bana söyle!
